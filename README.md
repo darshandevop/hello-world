@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project Developed and Maintained by Yogesh Chaudhary
